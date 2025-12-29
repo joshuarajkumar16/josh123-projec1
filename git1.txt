@@ -1,0 +1,2 @@
+1.check git is present in the system by navigating to command prompt and entering git if it not recognised then download git.
+2.downloand git
